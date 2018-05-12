@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '24819'
     url: http://www.gutenberg.org/2009/agents/24819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36709#Only-a-Girl-or-A-Physician-for-the-Soul.
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text
 identifiers:
